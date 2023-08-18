@@ -11,4 +11,4 @@ this is how?^ we set-up RStudio
 
 ## Just Playing around
 
-Im Doing Good 
+Im Doing good sheeesh
